@@ -1,4 +1,4 @@
-# character-recognization
+# Character-recognization
 A Character (Handwriting) to Text Software Using Neural Network
 Aim is to Make a Software that can convert different types of handwriting into text using character recognization of Machine Learning and Artificial Intelligence
 For this We will use different layers of Neural Network 
