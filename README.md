@@ -11,3 +11,6 @@ Then the output layer will give us the output in digital text format.
 
 You can download the dataset from here
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+
+link the dataset in the same directory as the jupyter file
+
